@@ -2,3 +2,6 @@
 	path = jmet
 	url = https://github.com/matthiaskaiser/jmet
 	branch = master
+[submodule "kekeo"]
+	path = kekeo
+	url = https://github.com/gentilkiwi/kekeo
