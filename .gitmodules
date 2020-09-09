@@ -17,3 +17,6 @@
 [submodule "dedecmscan"]
 	path = dedecmscan
 	url = https://github.com/lengjibo/dedecmscan.git
+[submodule "awd-weblogger"]
+	path = awd-weblogger
+	url = https://github.com/wupco/weblogger
