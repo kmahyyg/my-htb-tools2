@@ -5,3 +5,15 @@
 [submodule "kekeo"]
 	path = kekeo
 	url = https://github.com/gentilkiwi/kekeo
+[submodule "php-malware-finder"]
+	path = php-malware-finder
+	url = https://github.com/jvoisin/php-malware-finder
+[submodule "AWD-Predator-Framework"]
+	path = AWD-Predator-Framework
+	url = https://github.com/Ares-X/AWD-Predator-Framework.git
+[submodule "AngelSword"]
+	path = AngelSword
+	url = https://github.com/Lucifer1993/AngelSword
+[submodule "dedecmscan"]
+	path = dedecmscan
+	url = https://github.com/lengjibo/dedecmscan.git
