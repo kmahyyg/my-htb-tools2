@@ -23,3 +23,9 @@
 [submodule "jwt_tool"]
 	path = jwt_tool
 	url = https://github.com/ticarpi/jwt_tool
+[submodule "fastjson_rec_exploit"]
+	path = fastjson_rec_exploit
+	url = git@github.com:kmahyyg/fastjson_rec_exploit.git
+[submodule "Apache-Solr-RCE"]
+	path = Apache-Solr-RCE
+	url = https://github.com/Imanfeng/Apache-Solr-RCE.git
