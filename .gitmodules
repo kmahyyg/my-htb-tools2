@@ -29,6 +29,3 @@
 [submodule "Apache-Solr-RCE"]
 	path = Apache-Solr-RCE
 	url = https://github.com/Imanfeng/Apache-Solr-RCE.git
-[submodule "mqtt-pwn"]
-	path = mqtt-pwn
-	url = https://github.com/akamai-threat-research/mqtt-pwn
