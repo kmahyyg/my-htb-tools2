@@ -29,3 +29,6 @@
 [submodule "Apache-Solr-RCE"]
 	path = Apache-Solr-RCE
 	url = https://github.com/Imanfeng/Apache-Solr-RCE.git
+[submodule "ShiroExploit"]
+	path = ShiroExploit
+	url = https://github.com/feihong-cs/ShiroExploit
