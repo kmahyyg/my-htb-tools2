@@ -32,3 +32,6 @@
 [submodule "ShiroExploit"]
 	path = ShiroExploit
 	url = https://github.com/feihong-cs/ShiroExploit
+[submodule "win_only-XshellDecrypt"]
+	path = win_only-XshellDecrypt
+	url = https://github.com/HyperSine/how-does-Xmanager-encrypt-password
