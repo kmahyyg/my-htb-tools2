@@ -35,3 +35,9 @@
 [submodule "win_only-XshellDecrypt"]
 	path = win_only-XshellDecrypt
 	url = https://github.com/HyperSine/how-does-Xmanager-encrypt-password
+[submodule "PrintSpoofer"]
+	path = PrintSpoofer
+	url = https://github.com/itm4n/PrintSpoofer
+[submodule "SysTracingPoc"]
+	path = SysTracingPoc
+	url = https://github.com/itm4n/SysTracingPoc
