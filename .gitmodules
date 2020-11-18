@@ -41,3 +41,6 @@
 [submodule "SysTracingPoc"]
 	path = SysTracingPoc
 	url = https://github.com/itm4n/SysTracingPoc
+[submodule "nmap-vulners"]
+	path = nmap-vulners
+	url = https://github.com/vulnersCom/nmap-vulners
