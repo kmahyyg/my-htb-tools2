@@ -44,3 +44,6 @@
 [submodule "nmap-vulners"]
 	path = nmap-vulners
 	url = https://github.com/vulnersCom/nmap-vulners
+[submodule "domainTools"]
+	path = domainTools
+	url = https://github.com/SkewwG/domainTools.git
