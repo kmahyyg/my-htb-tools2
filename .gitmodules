@@ -47,3 +47,6 @@
 [submodule "domainTools"]
 	path = domainTools
 	url = https://github.com/SkewwG/domainTools.git
+[submodule "MySQL-Auth-Server"]
+	path = MySQL-Auth-Server
+	url = https://github.com/Diefunction/MySQL-Auth-Server
