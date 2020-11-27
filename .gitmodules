@@ -50,3 +50,9 @@
 [submodule "MySQL-Auth-Server"]
 	path = MySQL-Auth-Server
 	url = https://github.com/Diefunction/MySQL-Auth-Server
+[submodule "ThinkphpRCE"]
+	path = ThinkphpRCE
+	url = https://github.com/sukabuliet/ThinkphpRCE.git
+[submodule "WeblogicScan"]
+	path = WeblogicScan
+	url = https://github.com/rabbitmask/WeblogicScan.git
