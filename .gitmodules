@@ -56,3 +56,6 @@
 [submodule "WeblogicScan"]
 	path = WeblogicScan
 	url = https://github.com/rabbitmask/WeblogicScan.git
+[submodule "SpringBootVulExploit"]
+	path = SpringBootVulExploit
+	url = https://github.com/LandGrey/SpringBootVulExploit
