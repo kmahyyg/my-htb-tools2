@@ -62,3 +62,6 @@
 [submodule "FastjsonExploit"]
 	path = FastjsonExploit
 	url = https://github.com/c0ny1/FastjsonExploit
+[submodule "dvcs-ripper"]
+	path = dvcs-ripper
+	url = https://github.com/kost/dvcs-ripper.git
