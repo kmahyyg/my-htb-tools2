@@ -65,3 +65,6 @@
 [submodule "jexboss"]
 	path = jexboss
 	url = https://github.com/joaomatosf/jexboss
+[submodule "weblogicScanner"]
+	path = weblogicScanner
+	url = https://github.com/0xn0ne/weblogicScanner
