@@ -53,9 +53,6 @@
 [submodule "ThinkphpRCE"]
 	path = ThinkphpRCE
 	url = https://github.com/sukabuliet/ThinkphpRCE.git
-[submodule "WeblogicScan"]
-	path = WeblogicScan
-	url = https://github.com/rabbitmask/WeblogicScan.git
 [submodule "SpringBootVulExploit"]
 	path = SpringBootVulExploit
 	url = https://github.com/LandGrey/SpringBootVulExploit
