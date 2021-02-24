@@ -86,3 +86,6 @@
 [submodule "reGeorg"]
 	path = reGeorg
 	url = https://github.com/sensepost/reGeorg
+[submodule "Neo-reGeorg"]
+	path = Neo-reGeorg
+	url = https://github.com/L-codes/Neo-reGeorg
