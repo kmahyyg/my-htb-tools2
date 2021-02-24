@@ -98,3 +98,6 @@
 [submodule "dnstunnel"]
 	path = dnstunnel
 	url = https://github.com/ice-ice/dnstunnel
+[submodule "CVE-2019-5736-PoC"]
+	path = CVE-2019-5736-PoC
+	url = https://github.com/Frichetten/CVE-2019-5736-PoC
