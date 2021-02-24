@@ -71,3 +71,6 @@
 [submodule "Decrypt_Weblogic_Password"]
 	path = Decrypt_Weblogic_Password
 	url = https://github.com/TideSec/Decrypt_Weblogic_Password
+[submodule "shadowbroker"]
+	path = shadowbroker
+	url = https://github.com/misterch0c/shadowbroker
