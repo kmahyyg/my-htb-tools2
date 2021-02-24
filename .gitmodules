@@ -83,3 +83,6 @@
 [submodule "BrowserGhost"]
 	path = BrowserGhost
 	url = https://github.com/QAX-A-Team/BrowserGhost
+[submodule "reGeorg"]
+	path = reGeorg
+	url = https://github.com/sensepost/reGeorg
