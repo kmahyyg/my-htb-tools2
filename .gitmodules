@@ -92,3 +92,9 @@
 [submodule "pingtunnel"]
 	path = pingtunnel
 	url = https://github.com/esrrhs/pingtunnel
+[submodule "dns2tcp"]
+	path = dns2tcp
+	url = https://github.com/alex-sector/dns2tcp.git
+[submodule "dnstunnel"]
+	path = dnstunnel
+	url = https://github.com/ice-ice/dnstunnel
