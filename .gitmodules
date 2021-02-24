@@ -89,3 +89,6 @@
 [submodule "Neo-reGeorg"]
 	path = Neo-reGeorg
 	url = https://github.com/L-codes/Neo-reGeorg
+[submodule "pingtunnel"]
+	path = pingtunnel
+	url = https://github.com/esrrhs/pingtunnel
