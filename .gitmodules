@@ -74,3 +74,12 @@
 [submodule "shadowbroker"]
 	path = shadowbroker
 	url = https://github.com/misterch0c/shadowbroker
+[submodule "Xdecrypt"]
+	path = Xdecrypt
+	url = https://github.com/dzxs/Xdecrypt
+[submodule "SharpDecryptPwd"]
+	path = SharpDecryptPwd
+	url = https://github.com/uknowsec/SharpDecryptPwd
+[submodule "BrowserGhost"]
+	path = BrowserGhost
+	url = https://github.com/QAX-A-Team/BrowserGhost
