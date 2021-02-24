@@ -101,3 +101,6 @@
 [submodule "CVE-2019-5736-PoC"]
 	path = CVE-2019-5736-PoC
 	url = https://github.com/Frichetten/CVE-2019-5736-PoC
+[submodule "x-crack"]
+	path = x-crack
+	url = https://github.com/netxfly/x-crack
