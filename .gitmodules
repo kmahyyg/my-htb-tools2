@@ -110,3 +110,6 @@
 [submodule "clutch"]
 	path = clutch
 	url = https://github.com/kjcracks/clutch
+[submodule "ssl-kill-switch2"]
+	path = ssl-kill-switch2
+	url = https://github.com/nabla-c0d3/ssl-kill-switch2
