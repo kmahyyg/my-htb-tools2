@@ -104,3 +104,6 @@
 [submodule "x-crack"]
 	path = x-crack
 	url = https://github.com/netxfly/x-crack
+[submodule "android-backup-extractor"]
+	path = android-backup-extractor
+	url = https://github.com/nelenkov/android-backup-extractor
