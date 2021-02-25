@@ -113,3 +113,6 @@
 [submodule "ssl-kill-switch2"]
 	path = ssl-kill-switch2
 	url = https://github.com/nabla-c0d3/ssl-kill-switch2
+[submodule "JustTrustMe"]
+	path = JustTrustMe
+	url = https://github.com/Fuzion24/JustTrustMe
