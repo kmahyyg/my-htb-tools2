@@ -116,3 +116,6 @@
 [submodule "JustTrustMe"]
 	path = JustTrustMe
 	url = https://github.com/Fuzion24/JustTrustMe
+[submodule "pwn_jenkins"]
+	path = pwn_jenkins
+	url = https://github.com/gquere/pwn_jenkins
