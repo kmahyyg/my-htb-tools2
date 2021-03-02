@@ -119,3 +119,6 @@
 [submodule "webshell-collections-full"]
 	path = webshell-collections-full
 	url = https://github.com/tennc/webshell
+[submodule "pwn_jenkins"]
+	path = pwn_jenkins
+	url = https://github.com/gquere/pwn_jenkins
