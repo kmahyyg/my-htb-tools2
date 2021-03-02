@@ -116,3 +116,6 @@
 [submodule "JustTrustMe"]
 	path = JustTrustMe
 	url = https://github.com/Fuzion24/JustTrustMe
+[submodule "webshell-collections-full"]
+	path = webshell-collections-full
+	url = https://github.com/tennc/webshell
