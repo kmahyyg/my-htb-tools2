@@ -131,3 +131,6 @@
 [submodule "k8gege-cs-aggressor"]
 	path = k8gege-cs-aggressor
 	url = https://github.com/k8gege/Aggressor
+[submodule "fscan"]
+	path = fscan
+	url = https://github.com/shadow1ng/fscan
