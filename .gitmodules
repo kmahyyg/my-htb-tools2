@@ -125,3 +125,9 @@
 [submodule "ShadowUser"]
 	path = ShadowUser
 	url = https://github.com/An0nySec/ShadowUser
+[submodule "k8gege-ladon"]
+	path = k8gege-ladon
+	url = https://github.com/k8gege/Ladon
+[submodule "k8gege-cs-aggressor"]
+	path = k8gege-cs-aggressor
+	url = https://github.com/k8gege/Aggressor
