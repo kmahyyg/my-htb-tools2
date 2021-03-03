@@ -116,12 +116,12 @@
 [submodule "JustTrustMe"]
 	path = JustTrustMe
 	url = https://github.com/Fuzion24/JustTrustMe
+<<<<<<< HEAD
 [submodule "webshell-collections-full"]
 	path = webshell-collections-full
 	url = https://github.com/tennc/webshell
+=======
 [submodule "pwn_jenkins"]
 	path = pwn_jenkins
 	url = https://github.com/gquere/pwn_jenkins
-[submodule "ShadowUser"]
-	path = ShadowUser
-	url = https://github.com/An0nySec/ShadowUser
+>>>>>>> a6be59d4719f1091165354df43768c9a321ff94b
