@@ -134,3 +134,6 @@
 [submodule "fscan"]
 	path = fscan
 	url = https://github.com/shadow1ng/fscan
+[submodule "garble"]
+	path = garble
+	url = https://github.com/burrowers/garble
